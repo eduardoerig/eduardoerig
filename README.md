@@ -1,5 +1,7 @@
-## Olá eu sou o Eduardo Erig
+# Minha Biografia 
 
+
+## Quem sou :
 
 - 🦜 Meu nome é Eduardo Erig
 - 📖 Cursando atualmente o curso TDS, no Eron Domingues
