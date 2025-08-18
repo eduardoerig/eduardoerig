@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Eduardo Erig!
 
-💻 Estudante de tecnologia e desenvolvedor **Front-end** (com um pezinho no Back-end).  
+💻 Estudante do 3° Ano do Técnico em Desenvolvimento de sistemas e desenvolvedor **Front-end** (com um pezinho no **Back-end**).  
 🚀 Atualmente estudando **Dart, Flutter e Java**, além de ter uma boa base em **HTML e CSS**.  
 📱 Interessado no desenvolvimento **Web e Mobile**.
 
