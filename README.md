@@ -3,7 +3,7 @@
 ## Quem sou :
 - 🐱‍👤 Meu nome é Eduardo Erig
 - 📖 Cursando atualmente o 3° Ano do curso TDS, no Eron Domingues
-- 🏃 Gosto de jogar Futebol e Games de computador
+- 🏃 Gosto exercícios físicos, jogos online e codar
 - 👷‍♂️ Trabalho atualmente no Ti do Colégio Martin Luther como dev Front-End e com manutenções em gerais
 
 <div style="display: inline_block"><br>
