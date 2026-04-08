@@ -1,14 +1,29 @@
-# 👋 Olá, eu sou o Eduardo Erig!
+# 🏠 Sistema de Gerenciamento de Tarefas do Lar
 
-💻 Estudante do 3° Ano do Técnico em Desenvolvimento de sistemas e desenvolvedor **Front-end** (com um pezinho no **Back-end**).  
-🚀 Atualmente estudando **Dart, Flutter e Java**, além de ter uma boa base em **HTML e CSS**.  
-📱 Interessado no desenvolvimento **Web e Mobile**.
+Aplicação web simples para organizar atividades domésticas do dia a dia.
 
-### 🌟 Sobre mim
-- ☕ Apaixonado por café
-- 🎮 Gamer nas horas vagas
-- 💪 Curto praticar exercícios físicos
+## Funcionalidades
 
-### 📫 Como me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-erig)  
-- ✉️ **eduardoferig@gmail.com**
+- Criar tarefas com título, descrição, responsável, categoria, prioridade e prazo.
+- Marcar tarefas como concluídas ou reabrir.
+- Excluir tarefas individualmente.
+- Editar título e descrição de tarefas existentes.
+- Buscar tarefas por texto.
+- Filtrar por status (todas, pendentes, concluídas).
+- Filtrar por categoria.
+- Remover todas as tarefas concluídas com um clique.
+- Painel de estatísticas (total, pendentes, concluídas, atrasadas e exibidas).
+- Salvamento automático no `localStorage` do navegador.
+
+## Como usar
+
+1. Abra o arquivo `index.html` no navegador.
+2. Preencha o formulário e clique em **Adicionar tarefa**.
+3. Use os botões da tarefa para **Concluir**, **Editar** ou **Excluir**.
+4. Use a barra de busca e filtros para encontrar tarefas rapidamente.
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript (sem frameworks)

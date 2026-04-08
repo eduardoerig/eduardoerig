@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tarefas do Lar</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app">
+      <header>
+        <h1>🏠 Gerenciador de Tarefas do Lar</h1>
+        <p>Organize tarefas da casa com foco, prioridade e praticidade.</p>
+      </header>
+
+      <section class="card">
+        <h2>Nova tarefa</h2>
+        <form id="task-form" class="grid-form">
+          <label>
+            Título
+            <input id="title" type="text" placeholder="Ex: Lavar louça" required maxlength="80" />
+          </label>
+
+          <label>
+            Descrição
+            <input id="description" type="text" placeholder="Ex: Limpar também a pia" maxlength="120" />
+          </label>
+
+          <label>
+            Responsável
+            <input id="assignee" type="text" placeholder="Ex: Maria" maxlength="40" />
+          </label>
+
+          <label>
+            Categoria
+            <select id="category">
+              <option value="Limpeza">Limpeza</option>
+              <option value="Cozinha">Cozinha</option>
+              <option value="Lavanderia">Lavanderia</option>
+              <option value="Compras">Compras</option>
+              <option value="Outros">Outros</option>
+            </select>
+          </label>
+
+          <label>
+            Prioridade
+            <select id="priority">
+              <option value="baixa">Baixa</option>
+              <option value="media" selected>Média</option>
+              <option value="alta">Alta</option>
+            </select>
+          </label>
+
+          <label>
+            Prazo
+            <input id="dueDate" type="date" />
+          </label>
+
+          <button type="submit">Adicionar tarefa</button>
+        </form>
+      </section>
+
+      <section class="card">
+        <h2>Painel</h2>
+        <div class="toolbar">
+          <input id="search" type="search" placeholder="Buscar por título, responsável ou categoria" />
+
+          <select id="status-filter">
+            <option value="all">Todas</option>
+            <option value="pending">Pendentes</option>
+            <option value="done">Concluídas</option>
+          </select>
+
+          <select id="category-filter">
+            <option value="all">Todas as categorias</option>
+            <option value="Limpeza">Limpeza</option>
+            <option value="Cozinha">Cozinha</option>
+            <option value="Lavanderia">Lavanderia</option>
+            <option value="Compras">Compras</option>
+            <option value="Outros">Outros</option>
+          </select>
+
+          <button id="clear-completed" type="button" class="secondary">Remover concluídas</button>
+        </div>
+
+        <div class="stats" id="stats"></div>
+
+        <ul id="task-list" class="task-list" aria-live="polite"></ul>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
