@@ -50,17 +50,37 @@
 
 <br/>
 
-<!-- ===== STATS + LINGUAGENS (sem pico de spam) ===== -->
+<!-- ===== PERFIL (resumo geral) ===== -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eduardoerig&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=0d1117&title_color=4f8ef7&icon_color=4f8ef7&text_color=c9d1d9" height="170" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoerig&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=4f8ef7&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoerig&theme=github_dark" width="80%" alt="Profile Details"/>
 
 </div>
 
 <br/>
 
+<!-- ===== STATS + LINGUAGENS (estável, sem pico de spam) ===== -->
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eduardoerig&theme=github_dark" height="195" alt="Stats"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardoerig&theme=github_dark" height="195" alt="Most Commit Language"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardoerig&theme=github_dark" height="195" alt="Repos per Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eduardoerig&theme=github_dark&utcOffset=-3" height="195" alt="Productive Time"/>
+
+</div>
+
+<br/>
+
+<!-- ===== STREAK ===== -->
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=eduardoerig&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4f8ef7&fire=4f8ef7&currStreakLabel=4f8ef7&sideLabels=c9d1d9&dates=4a4f5c" width="55%" alt="GitHub Streak"/>
