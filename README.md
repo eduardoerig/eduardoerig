@@ -11,7 +11,7 @@ Gosto de pegar um processo manual e transformar em sistema: do levantamento de r
 
 - **Front-end:** React, Next.js, TypeScript, HTML/CSS
 - **Back-end:** Node.js, PHP, REST APIs
-- **Dados:** MySQL, PostgreSQL, Supabase
+- **Dados:** MySQL, PostgreSQL
 - **Automação e IA:** n8n, Claude Code, agentes de IA, Playwright, Cloudflare Workers
 
 ## Projetos em destaque
