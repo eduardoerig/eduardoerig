@@ -1,7 +1,8 @@
 # Oi, eu sou o Eduardo 👋
 
-Desenvolvedor **Full Stack** e cofundador da **[PrimoDev](https://www.instagram.com/_primodev/)**, onde construo sites, sistemas sob medida e automações para pequenos e médios negócios.
-Também sou Assistente de TI no Colégio Evangélico Martin Luther e técnico em Desenvolvimento de Sistemas.
+Trabalho como **Auxiliar de TI** no Colégio Evangélico Martin Luther, onde atuo como desenvolvedor web, faço help desk e manutenção de hardware.
+Também sou desenvolvedor **full stack** e cofundador da **[PrimoDev](https://www.instagram.com/_primodev/)**, onde construo sites, sistemas sob medida e automações para pequenos e médios negócios.
+Curso Engenharia de Software na Faculdade Donaduzzi e sou técnico em Desenvolvimento de Sistemas.
 
 Gosto de pegar um processo manual e transformar em sistema: do levantamento de requisitos ao deploy.
 
