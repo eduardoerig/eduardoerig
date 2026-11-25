@@ -4,6 +4,8 @@ Trabalho como **Auxiliar de TI** no Colégio Evangélico Martin Luther, onde atu
 Também sou desenvolvedor **full stack** e cofundador da **[PrimoDev](https://www.instagram.com/_primodev/)**, onde construo sites, sistemas sob medida e automações para pequenos e médios negócios.
 Curso Engenharia de Software na Faculdade Donaduzzi e sou técnico em Desenvolvimento de Sistemas.
 
+🌐 **Portfólio:** [eduardoerig.vercel.app](https://eduardoerig.vercel.app)
+
 Gosto de pegar um processo manual e transformar em sistema: do levantamento de requisitos ao deploy.
 
 **Aberto a vagas remotas** de Desenvolvedor Full Stack, Web ou Back-end.
@@ -27,5 +29,6 @@ Recentemente: um sistema que cuida do Instagram da PrimoDev em ciclo (planeja, p
 
 ## Contato
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eduardoerig.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoerig)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardoferig@gmail.com)
